@@ -1,0 +1,20 @@
+version: 2
+jobs:
+ build:
+   machine: true
+   steps:
+     - checkout 
+
+     # build image
+     - run: |         
+         docker info
+         docker build -t aspnetappsignalr -f Dockerfile .
+
+     # deploy the image
+     - run: |  
+         docker login --username=pinaki.best@gmail.com --password=8fe0c4d9-c792-4685-8d42-fa264e504f10 registry.heroku.com
+         docker tag aspnetappsignalr registry.heroku.com/pinakisignalr/web
+         docker push registry.heroku.com/pinakisignalr/web                
+         curl https://cli-assets.heroku.com/install.sh | sh
+         heroku container:release web --app pinakisignalr
+     

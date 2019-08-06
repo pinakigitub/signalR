@@ -1,0 +1,14 @@
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\bin\Debug\netcoreapp2.1\coreWithSignalR.deps.json
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\bin\Debug\netcoreapp2.1\coreWithSignalR.runtimeconfig.json
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\bin\Debug\netcoreapp2.1\coreWithSignalR.runtimeconfig.dev.json
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\bin\Debug\netcoreapp2.1\coreWithSignalR.dll
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.csprojAssemblyReference.cache
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.csproj.CoreCompileInputs.cache
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.RazorAssemblyInfo.cache
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.RazorAssemblyInfo.cs
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.AssemblyInfoInputs.cache
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.AssemblyInfo.cs
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.RazorTargetAssemblyInfo.cache
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\bin\Debug\netcoreapp2.1\coreWithSignalR.pdb
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.dll
+C:\Users\mohapap\source\repos\coreWithSignalR\coreWithSignalR\obj\Debug\netcoreapp2.1\coreWithSignalR.pdb
